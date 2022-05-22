@@ -1,0 +1,168 @@
+body {
+    font-family: 'roboto', sans-serif;
+    
+    background-color: #E5E5E5;
+}
+
+.link {text-decoration: none;}
+/* ------------   Хедер   ------------ */
+.header {
+    background-color: white
+}
+.header_nav {
+
+}
+.header_logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: black;
+    text-decoration: none;
+}
+.header_colortext_logo_web {
+    color: #2196F3
+}
+.header_nav_list {
+    list-style: none;
+}
+.header_nav_list li a {
+    text-decoration: none;
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px; 
+}
+.header_adress_list {
+    list-style: none;
+
+}
+.header_adress_list li a {
+    text-decoration: none;
+}
+
+/* ------------   Футер   ------------  */
+.footer_section {
+    background-color: #2F303A;
+}
+.footer_logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer_colortext_logo_web {
+    color: #2196F3
+}
+.footer_address {
+    
+}
+.footer_list {
+    list-style: none;
+    
+}
+.footer_list li a {
+    text-decoration: none;
+}
+.footer_map {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+}
+.footer_mail {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.6);
+
+    
+}
+.footer_tel {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.6);
+
+}
+/* ------------   Студия   ------------ */
+/* ---- Шапка  ---- */
+.basic_section {
+    background: #2F303A;
+}
+.basic_title {
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #ffffff;
+}
+.basic_button {
+    
+}
+/* ---- Особености  ---- */
+.peculiarities_section {
+
+}
+.peculiarities_title {
+
+}
+.peculiarities_list {
+    list-style: none;
+
+}
+.peculiarities_item {
+
+}
+.peculiarities_text {
+
+}
+
+/* ---- Чем занимаемся  ---- */
+.about_section {
+
+}
+.about_title {
+
+}
+.about_list {
+    list-style: none;
+
+}
+
+/* ---- Наша команда  ---- */
+.team_section {
+
+}
+.team_title {
+
+}
+.team_list {
+    list-style: none;
+
+}
+.team_item {
+
+}
+.team_name {
+
+}
+.team_position {
+
+}
+
+
+/* ------------   Портфолио   ------------ */
